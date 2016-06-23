@@ -1,0 +1,51 @@
+https://keybase.io/thematjaz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://thematjaz.github.io
+  * I am thematjaz (https://keybase.io/thematjaz) on keybase.
+  * I have a public key ASDefsoKsXURXq1avX6lGf29G0MoxacQqUkNwhXelBdTHAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101a351b028b308d3d72bcc46d118824e6cb1fe8c6756e0fd93c2af57cab58193520a",
+            "host": "keybase.io",
+            "kid": "0120de7eca0ab175115ead5abd7ea519fdbd1b4328c5a710a9490dc215de9417531c0a",
+            "uid": "11bad95a890978a4db64015694634119",
+            "username": "thematjaz"
+        },
+        "service": {
+            "hostname": "thematjaz.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1466668246,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1466667984,
+        "hash": "edcfae0a9c894bee06bd395ef57d8522ec8b677b31a27c6731376e96d1a48aea995f2739185697a24b604555fe13034d1bacdf6f2e8a415a25ffddeaa06f3d04",
+        "seqno": 496327
+    },
+    "prev": "29e09f4b93c149cda92ddf10bdeaa1000ebc3285d0a2655058083988d8948236",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3n7KCrF1EV6tWr1+pRn9vRtDKMWnEKlJDcIV3pQXUxwKp3BheWxvYWTFAv17ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxYTM1MWIwMjhiMzA4ZDNkNzJiY2M0NmQxMTg4MjRlNmNiMWZlOGM2NzU2ZTBmZDkzYzJhZjU3Y2FiNTgxOTM1MjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZGU3ZWNhMGFiMTc1MTE1ZWFkNWFiZDdlYTUxOWZkYmQxYjQzMjhjNWE3MTBhOTQ5MGRjMjE1ZGU5NDE3NTMxYzBhIiwidWlkIjoiMTFiYWQ5NWE4OTA5NzhhNGRiNjQwMTU2OTQ2MzQxMTkiLCJ1c2VybmFtZSI6InRoZW1hdGpheiJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoidGhlbWF0amF6LmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE2In0sImN0aW1lIjoxNDY2NjY4MjQ2LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NjY2Njc5ODQsImhhc2giOiJlZGNmYWUwYTljODk0YmVlMDZiZDM5NWVmNTdkODUyMmVjOGI2NzdiMzFhMjdjNjczMTM3NmU5NmQxYTQ4YWVhOTk1ZjI3MzkxODU2OTdhMjRiNjA0NTU1ZmUxMzAzNGQxYmFjZGY2ZjJlOGE0MTVhMjVmZmRkZWFhMDZmM2QwNCIsInNlcW5vIjo0OTYzMjd9LCJwcmV2IjoiMjllMDlmNGI5M2MxNDljZGE5MmRkZjEwYmRlYWExMDAwZWJjMzI4NWQwYTI2NTUwNTgwODM5ODhkODk0ODIzNiIsInNlcW5vIjoxNywidGFnIjoic2lnbmF0dXJlIn2jc2lnxECcCS4MrQiAaVTClhvf6kfBZMEx35izOaOmq4+pJtvjKWEMgAFfvknN8/gsl5H+dxXHvjfgcHIraCBbcHSXJBcKqHNpZ190eXBlIKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/thematjaz
